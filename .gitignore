@@ -1,0 +1,12 @@
+.Rproj.user
+*.Rproj
+.Rhistory
+.RData
+*.Rds
+quiz1.R
+*.flatfile
+sundata.csv
+stations.txt
+*.xlsx
+leaflet_example.R
+rsconnect
